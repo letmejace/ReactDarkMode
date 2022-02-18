@@ -1,6 +1,6 @@
 # ReactDarkMode
 
-This is a React DarkMode which can toggle with night and right mode
+This is a React DarkMode which can toggle with dark and light mode
 
 ## Built with: 
  
